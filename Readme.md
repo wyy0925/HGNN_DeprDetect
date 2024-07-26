@@ -1,6 +1,6 @@
 # A Hybrid Graph Neural Network for Enhanced EEG-Based Depression Detection
 
-![Framework](Framework.jpg){ width=500 }
+![Framework](Framework.jpg){ width=400 }
 
 ## Datasets
 
